@@ -10,12 +10,12 @@ It supports the monitoring and management of the following systems:
 
 ---
 ✔Monitoring Functions：
-CPU: the current load of each core, etc.
-Process: top 10 processes online time and resource usage.
-Memory: total amount of memory and usage.
-Disk: the corresponding mount point for each partition, as well as the capacity and current read/write speed, etc.
-Network: inbound and outbound speeds per network interface, total amount of data, etc.
-Docker: show and manage containers, including start, restart, pause/unpause, stop.
+* CPU: the current load of each core, etc.
+* Process: top 10 processes online time and resource usage.
+* Memory: total amount of memory and usage.
+* Disk: the corresponding mount point for each partition, as well as the capacity and current read/write speed, etc.
+* Network: inbound and outbound speeds per network interface, total amount of data, tcp connections, etc.
+* Docker: show and manage containers, including start, restart, pause/unpause, stop.
 
 ✔Script and command snippet management:
 Script organization, editing, running, result display, etc.
@@ -30,9 +30,17 @@ xterm-256 color compatible terminal emulation
 
 ✔SFTP supported.
 
-Support languages: English, Simplified Chinese, Traditional Chinese
-Support themes: dark, light
-Material You supported
+#### Support languages: 
+* English
+* Simplified Chinese
+* Traditional Chinese
+* Traditional Chinese (Taiwan)
+
+#### Support themes: 
+* dark
+* light
+
+#### `Material You` supported.
 ---
 Privacy Statement:
 The app does not collect or upload any user data or information, including your server's information. Sensitive server information is encrypted and stored locally.
