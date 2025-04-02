@@ -6,6 +6,7 @@ It supports the monitoring and management of the following systems:
 * Linux (Ubuntu, CentOS, Debian, Fedora, OpenWrt, Busybox, etc.)
 * FreeBSD
 * macOS
+* Windows
 * Docker
 
 ---
@@ -27,16 +28,17 @@ SOCKS5 Proxy
 
 ✔SSH client:
 xterm-256 color compatible terminal emulation
+Support using Biometric authentication to enter sudo password
 
 ✔SFTP supported.
 
-#### Support languages: 
+#### Support languages:
 * English
 * Simplified Chinese
 * Traditional Chinese
 * Traditional Chinese (Taiwan)
 
-#### Support themes: 
+#### Support themes:
 * dark
 * light
 
