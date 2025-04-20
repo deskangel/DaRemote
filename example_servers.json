@@ -9,7 +9,7 @@
     // if it is 1, 'password' is for password and 'publickKey' should be left empty.
     "usePassword": 0,
 
-    "password": "-----BEGIN OPENSSH PRIVATE KEY-----b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUxOQAAACAXWV0HJqZnGcU0XpNOitKFCKLigeWoJLoyXL1FusDYlAAAAJhDEWKvQxFirwAAAAtzc2gtZWQyNTUxOQAAACAXWV0HJqZnGcU0XpNOitKFCKLigeWoJLoyXL1FusDYlAAAAEDalfuVcBNDU7mKiX+T9Kk6Ou5cx98YwKsWeBQfxKCkDhdZXQcmpmcZxTRek06K0oUIouKB5agkujJcvUW6wNiUAAAAFXdpbGxpYW14QHd4bWluaS5sb2NhbA==-----END OPENSSH PRIVATE KEY-----",
+    "password": "-----BEGIN OPENSSH PRIVATE KEY-----bAAAAgtZWQyNTUxOQAAACAXWV0HJqZnGcU0XpNOitKFCKLigeWoJLoyXL1FusDYlAAAAJhDEWKvQxFirwAAAAtzc2gtZWQyNTUxOQAAACAXWV0HJqZnGcU0XpNOitKFCKLigeWoJLoyXL1FusDYlAAAAEDalfuVcBNDU7mKiX+T9Kk6Ou5cx98YwKsWeBQfxKCkDhdZXQcmpmcZxTRek06K0oUIouKB5agkujJcvUW6==-----END OPENSSH PRIVATE KEY-----",
     "publicKey": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBdZXQcmpmcZxTRek06K0oUIouKB5agkujJcvUW6wNiU username@daremote",
     "phrase": "",
 
