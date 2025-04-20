@@ -1,0 +1,78 @@
+[
+  {
+    "label": "test1",
+    "address": "127.0.0.1",
+    "port": "2002",
+    "username": "root",
+
+    // If 'usePassword' is 0, 'password' is for a one-line private key;
+    // if it is 1, 'password' is for password and 'publickKey' should be left empty.
+    "usePassword": 0,
+
+    "password": "-----BEGIN OPENSSH PRIVATE KEY-----b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUxOQAAACAXWV0HJqZnGcU0XpNOitKFCKLigeWoJLoyXL1FusDYlAAAAJhDEWKvQxFirwAAAAtzc2gtZWQyNTUxOQAAACAXWV0HJqZnGcU0XpNOitKFCKLigeWoJLoyXL1FusDYlAAAAEDalfuVcBNDU7mKiX+T9Kk6Ou5cx98YwKsWeBQfxKCkDhdZXQcmpmcZxTRek06K0oUIouKB5agkujJcvUW6wNiUAAAAFXdpbGxpYW14QHd4bWluaS5sb2NhbA==-----END OPENSSH PRIVATE KEY-----",
+    "publicKey": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBdZXQcmpmcZxTRek06K0oUIouKB5agkujJcvUW6wNiU username@daremote",
+    "phrase": "",
+
+    "visible": 1,
+
+    // 'osType':  Linux, Ubuntu, CentOS, Debian, Fedora, Alpine,  OpenWrt, BusyBox, Docker, FreeBSD, macOS, Windows.
+    "osType": "Linux",
+
+    // if 'osType' is Docker, 'containerName' should be set to the name of a running Docker Container;
+    // otherwise, leave it empty.
+    "containerName": "",
+
+    "tags": ["tag1", "tag2"],
+
+    // 'othercode': sudo password
+    "othercode": "123456",
+    "settings": {
+      // If any of 'biometric2Sudo', 'dockerNeedsSudo', or 'smartNeedSudo' is set to 1, 'othercode' must be set to the sudo password.
+      "biometric2Sudo": 1,
+      "dockerNeedsSudo": 1,
+      "smartNeedSudo": 1,
+
+      "useFishShell": 1,
+      // 'addrtypeused': 0 for any, 1 for ipv4, 2 for ipv6
+      "addrtypeused": 2,
+
+      // if 'biometric2Sudo' is 1, 'sudoPromptWords' cannot be empty.
+      "sudoPromptWords": "Password: ",
+
+      // 'smartctlPath': the path to smartctl command, if necessary.
+      "smartctlPath": "/usr/local/bin/smartctl"
+    }
+  },
+  {
+    "label": "test",
+    "address": "127.0.0.1",
+    "port": "2002",
+    "username": "root",
+    "password": "123456",
+    "usePassword": 1,
+    "phrase": "",
+    "publicKey": "",
+    "visible": 1,
+    "osType": "Linux",
+    "containerName": "",
+    "tags": [],
+    "othercode": "",
+    "settings": {}
+  },  
+  {
+    "label": "test3",
+    "address": "127.0.0.1",
+    "port": "2002",
+    "username": "root",
+    "password": "123456",
+    "othercode": "123456",
+    "usePassword": 1,
+    "phrase": "",
+    "publicKey": "",
+    "visible": 1,
+    "osType": "Docker",
+    "containerName": "container",
+    "tags": [],
+    "settings": {}
+  }
+]
