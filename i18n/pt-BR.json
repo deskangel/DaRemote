@@ -532,5 +532,7 @@
   "Import failed!": "Falha na importação!",
   "Sort by CPU": "Ordenar por CPU",
   "Sort by MEM": "Ordenar por memória",
+  "Use container terminal": "Usar terminal do contêiner",
+  "Enter host or container terminal": "Entrar no terminal do host ou do contêiner",
   "Switch language": "Trocar idioma"
 }

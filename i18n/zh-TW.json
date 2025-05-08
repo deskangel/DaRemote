@@ -532,5 +532,7 @@
   "Import failed!": "匯入失敗!",
   "Sort by CPU": "按 CPU 排序",
   "Sort by MEM": "按記憶體排序",
+  "Use container terminal": "使用容器終端",
+  "Enter host or container terminal": "進入主機或容器終端",
   "Switch language": "切換語言"
 }

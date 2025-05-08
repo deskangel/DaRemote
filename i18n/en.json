@@ -532,5 +532,7 @@
   "Import failed!": "Import failed!",
   "Sort by CPU": "Sort by CPU",
   "Sort by MEM": "Sort by MEM",
+  "Use container terminal": "Use container terminal",
+  "Enter host or container terminal": "Enter host or container terminal",
   "Switch language": "Switch language"
 }

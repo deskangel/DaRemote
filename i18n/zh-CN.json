@@ -532,5 +532,7 @@
   "Import failed!": "导入失败!",
   "Sort by CPU": "按 CPU 排序",
   "Sort by MEM": "按内存排序",
+  "Use container terminal": "使用容器终端",
+  "Enter host or container terminal": "进入主机或容器终端",
   "Switch language": "切换语言"
 }
