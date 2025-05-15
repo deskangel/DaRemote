@@ -18,6 +18,9 @@
     // 'osType':  Linux, Ubuntu, CentOS, Debian, Fedora, Alpine,  OpenWrt, BusyBox, Docker, FreeBSD, macOS, Windows.
     "osType": "Linux",
 
+    // specify a proxy by its label, which must already be created on the 'Proxies' page in DaRemote.
+    "proxyLabel": "local",
+
     // if 'osType' is Docker, 'containerName' should be set to the name of a running Docker Container;
     // otherwise, leave it empty.
     "containerName": "",
