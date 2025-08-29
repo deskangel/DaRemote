@@ -19,7 +19,8 @@ It supports the monitoring and management of the following systems:
 * Docker: show and manage containers, including start, restart, pause/unpause, stop.
 
 ✔Script and command snippet management:
-Script organization, editing, running, result display, etc.
+* Script organization, editing, running, result display, etc.
+* Create local tunnel
 
 ✔Proxy supported:
 SSH Tunnel
@@ -37,6 +38,7 @@ Support using Biometric authentication to enter sudo password
 * Simplified Chinese
 * Traditional Chinese
 * Traditional Chinese (Taiwan)
+* Português (Brasil)
 
 #### Support themes:
 * dark
