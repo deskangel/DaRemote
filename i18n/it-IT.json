@@ -323,6 +323,10 @@
   "Back to parent folder": "Torna alla cartella superiore",
   "Use last path": "Usa l'ultimo percorso",
   "Show SFTP history": "Mostra cronologia SFTP",
+  "Permission display style": "Stile di visualizzazione dei permessi",
+  "Numeric + Text": "Numerico + Testo",
+  "Text only": "Solo Testo",
+  "Numeric only": "Solo Numerico",
   "BACKWARD_BEHAVIOR": "L'operazione indietro torna alla cartella superiore",
   "NO_COMMANDS_DEFINED": "Non ci sono comandi definiti. Puoi andare su `Imposta Comando` per aggiungere i comandi.",
   "Term Settings": "Impostazioni Terminale",
@@ -563,5 +567,11 @@
   "Global command": "Comando globale",
   "Server command": "Comando server",
   "Group command": "Comando di gruppo",
+  "Special thanks to our contributors:": "Un ringraziamento speciale ai nostri collaboratori:",
+  "Permissions": "Permessi",
+  "Owner:": "Proprietario:",
+  "Group:": "Gruppo:",
+  "Others:": "Altri:",
+  "Failed to change permissions": "Impossibile modificare i permessi",
   "Switch language": "Cambia lingua"
 }
