@@ -324,6 +324,10 @@
   "BACKWARD_BEHAVIOR": "返回操作顯示父目錄而非上一個頁面",
   "Use last path": "使用上次目錄",
   "Show SFTP history": "顯示 SFTP 歷史",
+  "Permission display style": "權限顯示樣式",
+  "Numeric + Text": "數字 + 文本",
+  "Text only": "僅文本",
+  "Numeric only": "僅數字",
   "NO_COMMANDS_DEFINED": "沒有設置命令，可以去\"命令集\"添加自定義的命令和腳本",
   "Term Settings": "終端設置",
   "Restore default": "還原默認設置",
@@ -563,5 +567,11 @@
   "Global command": "全局命令",
   "Server command": "服務器命令",
   "Group command": "群組命令",
+  "Special thanks to our contributors:": "特別感謝以下貢獻者:",
+  "Permissions": "權限",
+  "Owner:": "所有者:",
+  "Group:": "所屬組:",
+  "Others:": "其他人:",
+  "Failed to change permissions": "更改權限失敗",
   "Switch language": "切換語言"
 }

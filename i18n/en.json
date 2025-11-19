@@ -323,6 +323,10 @@
   "Back to parent folder": "Back to parent folder",
   "Use last path": "Use last path",
   "Show SFTP history": "Show SFTP history",
+  "Permission display style": "Permission display style",
+  "Numeric + Text": "Numeric + Text",
+  "Text only": "Text only",
+  "Numeric only": "Numeric only",
   "BACKWARD_BEHAVIOR": "Backward operation navigates to the parent directory",
   "NO_COMMANDS_DEFINED": "There is no commands defined. You can go to `Command set` to add commands.",
   "Term Settings": "Term Settings",
@@ -563,5 +567,11 @@
   "Global command": "Global command",
   "Server command": "Server command",
   "Group command": "Group command",
+  "Special thanks to our contributors:": "Special thanks to our contributors:",
+  "Permissions": "Permissions",
+  "Owner:": "Owner:",
+  "Group:": "Group:",
+  "Others:": "Others:",
+  "Failed to change permissions": "Failed to change permissions",
   "Switch language": "Switch language"
 }
