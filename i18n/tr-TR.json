@@ -631,5 +631,6 @@
   "MAC Address": "MAC Adresi",
   "Broadcast IP": "Yayın (Broadcast) IP",
   "Invalid address or port": "Geçersiz adres veya port",
+  "Use bps for network speed": "Ağ hızı için bps kullan",
   "Switch language": "Dil değiştir"
 }

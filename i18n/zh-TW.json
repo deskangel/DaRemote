@@ -631,5 +631,6 @@
   "MAC Address": "MAC 位址",
   "Broadcast IP": "廣播 IP",
   "Invalid address or port": "無效的位址或連接埠",
+  "Use bps for network speed": "使用 bps 表示網路速度",
   "Switch language": "切換語言"
 }

@@ -631,5 +631,6 @@
   "MAC Address": "Indirizzo MAC",
   "Broadcast IP": "IP di Broadcast",
   "Invalid address or port": "Indirizzo o porta non valida",
+  "Use bps for network speed": "Usa bps per la velocità della rete",
   "Switch language": "Cambia lingua"
 }
