@@ -632,5 +632,6 @@
   "Broadcast IP": "广播 IP",
   "Invalid address or port": "无效的地址或端口",
   "Use bps for network speed": "使用 bps 表示网络速度",
+  "Convert to proxy": "转换为代理服务器",
   "Switch language": "切换语言"
 }

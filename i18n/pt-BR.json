@@ -632,5 +632,6 @@
   "Broadcast IP": "IP de Broadcast",
   "Invalid address or port": "Endereço ou porta inválida",
   "Use bps for network speed": "Usar bps para a velocidade da rede",
+  "Convert to proxy": "Converter para proxy",
   "Switch language": "Trocar idioma"
 }

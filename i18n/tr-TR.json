@@ -632,5 +632,6 @@
   "Broadcast IP": "Yayın (Broadcast) IP",
   "Invalid address or port": "Geçersiz adres veya port",
   "Use bps for network speed": "Ağ hızı için bps kullan",
+  "Convert to proxy": "Proxy'ye dönüştür",
   "Switch language": "Dil değiştir"
 }
