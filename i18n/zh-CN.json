@@ -633,5 +633,7 @@
   "Invalid address or port": "无效的地址或端口",
   "Use bps for network speed": "使用 bps 表示网络速度",
   "Convert to proxy": "转换为代理服务器",
+  "Colored command output": "彩色命令输出",
+  "Show colors in command output": "显示命令输出中的颜色",
   "Switch language": "切换语言"
 }

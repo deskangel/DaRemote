@@ -633,5 +633,7 @@
   "Invalid address or port": "Geçersiz adres veya port",
   "Use bps for network speed": "Ağ hızı için bps kullan",
   "Convert to proxy": "Proxy'ye dönüştür",
+  "Colored command output": "Renkli komut çıktısı",
+  "Show colors in command output": "Komut çıktısında renkleri göster",
   "Switch language": "Dil değiştir"
 }

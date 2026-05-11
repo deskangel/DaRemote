@@ -633,5 +633,7 @@
   "Invalid address or port": "Indirizzo o porta non valida",
   "Use bps for network speed": "Usa bps per la velocità della rete",
   "Convert to proxy": "Converti in proxy",
+  "Colored command output": "Output dei comandi colorato",
+  "Show colors in command output": "Mostra colori nell'output dei comandi",
   "Switch language": "Cambia lingua"
 }

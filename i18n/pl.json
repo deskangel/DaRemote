@@ -498,5 +498,7 @@
   "IPv4": "IPv4",
   "IPv6": "IPv6",
   "SUDO_NOT_ENABLED": "Używanie biometrii dla sudo nie jest włączone.",
+  "Colored command output": "Kolorowe wyjście polecenia",
+  "Show colors in command output": "Pokaż kolory w wyjściu polecenia",
   "Switch language": "Zmień język"
 }
