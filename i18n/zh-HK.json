@@ -635,5 +635,7 @@
   "Convert to proxy": "轉換為代理伺服器",
   "Colored command output": "彩色指令輸出",
   "Show colors in command output": "顯示指令輸出中的色彩",
+  "Exit shell when leaving Command page": "離開指令頁面時退出 Shell",
+  "EXIT_SHELL_OPTION_SUBTITLE": "離開指令頁面後自動關閉 Shell 工作階段。",
   "Switch language": "切換語言"
 }

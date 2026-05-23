@@ -635,5 +635,7 @@
   "Convert to proxy": "Converti in proxy",
   "Colored command output": "Output dei comandi colorato",
   "Show colors in command output": "Mostra colori nell'output dei comandi",
+  "Exit shell when leaving Command page": "Esci dalla shell quando lasci la pagina Comandi",
+  "EXIT_SHELL_OPTION_SUBTITLE": "Chiudi automaticamente la sessione shell dopo aver lasciato la pagina Comandi.",
   "Switch language": "Cambia lingua"
 }

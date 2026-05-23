@@ -635,5 +635,7 @@
   "Convert to proxy": "In Proxy umwandeln",
   "Colored command output": "Farbige Befehlsausgabe",
   "Show colors in command output": "Farben in der Befehlsausgabe anzeigen",
+  "Exit shell when leaving Command page": "Shell beim Verlassen der Befehlsseite beenden",
+  "EXIT_SHELL_OPTION_SUBTITLE": "Shell-Sitzung nach dem Verlassen der Befehlsseite automatisch schließen.",
   "Switch language": "Sprache wechseln"
 }

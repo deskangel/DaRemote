@@ -500,5 +500,7 @@
   "SUDO_NOT_ENABLED": "Używanie biometrii dla sudo nie jest włączone.",
   "Colored command output": "Kolorowe wyjście polecenia",
   "Show colors in command output": "Pokaż kolory w wyjściu polecenia",
+  "Exit shell when leaving Command page": "Zamknij powłokę po opuszczeniu strony poleceń",
+  "EXIT_SHELL_OPTION_SUBTITLE": "Automatycznie zamknij sesję powłoki po opuszczeniu strony poleceń.",
   "Switch language": "Zmień język"
 }

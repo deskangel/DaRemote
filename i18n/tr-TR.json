@@ -635,5 +635,7 @@
   "Convert to proxy": "Proxy'ye dönüştür",
   "Colored command output": "Renkli komut çıktısı",
   "Show colors in command output": "Komut çıktısında renkleri göster",
+  "Exit shell when leaving Command page": "Komut sayfasından ayrılırken shell'den çık",
+  "EXIT_SHELL_OPTION_SUBTITLE": "Komut sayfasından ayrıldıktan sonra shell oturumunu otomatik olarak kapat.",
   "Switch language": "Dil değiştir"
 }
