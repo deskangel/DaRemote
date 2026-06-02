@@ -122,6 +122,8 @@
   "Server label font size": "Schriftgröße der Serverbezeichnung",
   "Auto refresh on detail page": "Automatisch auf Detailseite aktualisieren",
   "Refresh interval": "Aktualisierungsintervall",
+  "Keep screen awake": "Bildschirm immer eingeschaltet lassen",
+  "Keep the screen on when using the app": "Bildschirm bei Verwendung der App eingeschaltet lassen",
   "Keep server alive": "Serververbindung aufrechterhalten",
   "Keep server alive interval": "Intervall für Verbindungsaufrechterhaltung",
   "Keep server alive retry count": "Anzahl der Wiederholungsversuche",

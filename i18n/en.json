@@ -122,6 +122,8 @@
   "Server label font size": "Server label font size",
   "Auto refresh on detail page": "Auto refresh on detail page",
   "Refresh interval": "Refresh interval",
+  "Keep screen awake": "Keep screen awake",
+  "Keep the screen on when using the app": "Keep the screen on when using the app",
   "Keep server alive": "Keep server alive",
   "Keep server alive interval": "Keep server alive interval",
   "Keep server alive retry count": "Keep server alive retry count",

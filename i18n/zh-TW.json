@@ -122,6 +122,8 @@
   "Server label font size": "伺服器標籤字型大小",
   "Auto refresh on detail page": "詳細頁自動重新整理",
   "Refresh interval": "重新整理間隔",
+  "Keep screen awake": "保持螢幕常亮",
+  "Keep the screen on when using the app": "使用應用程式時保持螢幕常亮",
   "Keep server alive": "保持伺服器連線",
   "Keep server alive interval": "心跳封包傳送間隔",
   "Keep server alive retry count": "心跳封包最大重試次數",

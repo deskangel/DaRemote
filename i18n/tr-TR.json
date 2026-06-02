@@ -122,6 +122,8 @@
   "Server label font size": "Sunucu etiketi yazı tipi boyutu",
   "Auto refresh on detail page": "Detay sayfasında otomatik yenile",
   "Refresh interval": "Yenileme aralığı",
+  "Keep screen awake": "Ekranı her zaman açık tut",
+  "Keep the screen on when using the app": "Uygulamayı kullanırken ekranı açık tut",
   "Keep server alive": "Sunucuyu canlı tut",
   "Keep server alive interval": "Sunucuyu canlı tutma aralığı",
   "Keep server alive retry count": "Sunucuyu canlı tutma yeniden deneme sayısı",
