@@ -217,6 +217,7 @@
   "Change PIN": "PIN ändern",
   "Enable PIN": "PIN aktivieren",
   "Use system authentication": "Systemauthentifizierung verwenden",
+  "Lock after": "Sperren nach",
   "Disable PIN": "PIN deaktivieren",
   "protect access to the app": "Zugriff auf die App schützen",
   "HOST_DATA_DECRYPT_FAILED": "Die gespeicherten Anmeldeinformationen der Server sind beschädigt. Entschlüsselung fehlgeschlagen.",

@@ -217,6 +217,7 @@
   "Change PIN": "PIN'i değiştir",
   "Enable PIN": "PIN'i etkinleştir",
   "Use system authentication": "Sistem kimlik doğrulamasını kullan",
+  "Lock after": "Şundan sonra kilitle",
   "Disable PIN": "PIN'i devre dışı bırak",
   "protect access to the app": "uygulamaya erişimi koru",
   "HOST_DATA_DECRYPT_FAILED": "Sunucuların saklanan oturum açma bilgileri bozuldu. Şifre çözme başarısız oldu.",

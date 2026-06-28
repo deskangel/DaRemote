@@ -217,6 +217,7 @@
   "Change PIN": "Change PIN",
   "Enable PIN": "Enable PIN",
   "Use system authentication": "Use system authentication",
+  "Lock after": "Lock after",
   "Disable PIN": "Disable PIN",
   "protect access to the app": "protect access to the app",
   "HOST_DATA_DECRYPT_FAILED": "The stored login information of servers were corrupted. Failed to decrypt.",

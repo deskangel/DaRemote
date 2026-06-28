@@ -217,6 +217,7 @@
   "Change PIN": "Alterar PIN",
   "Enable PIN": "Ativar PIN",
   "Use system authentication": "Usar autenticação do sistema",
+  "Lock after": "Bloquear após",
   "Disable PIN": "Desativar PIN",
   "protect access to the app": "proteger o acesso ao app",
   "HOST_DATA_DECRYPT_FAILED": "As informações de login armazenadas dos servidores foram corrompidas. Falha na descriptografia.",

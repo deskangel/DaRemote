@@ -217,6 +217,7 @@
   "Change PIN": "更改當前 PIN",
   "Enable PIN": "設置並使用 PIN",
   "Use system authentication": "使用系統驗證",
+  "Lock after": "鎖定延遲",
   "Disable PIN": "關閉 PIN",
   "protect access to the app": "保護應用訪問",
   "HOST_DATA_DECRYPT_FAILED": "存儲的服務器登錄信息被破壞，解密失敗。",
