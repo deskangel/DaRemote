@@ -363,6 +363,7 @@
   "AUTO_BACKUP_FILE_WARNING": "Auto-backup files are in temp dir for emergency recovery only.\n\n",
   "Docker log": "Docker log",
   "Podman log": "Podman log",
+  "Container log": "Container log",
   "start": "start",
   "starting...": "starting...",
   "restart": "restart",

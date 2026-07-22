@@ -363,6 +363,7 @@
   "AUTO_BACKUP_FILE_WARNING": "自動備份文件存放於臨時目錄，僅作為緊急恢復使用\n\n",
   "Docker log": "Docker日誌",
   "Podman log": "Podman日誌",
+  "Container log": "容器日誌",
   "start": "啟動",
   "starting...": "正在啟動...",
   "restart": "重啟",

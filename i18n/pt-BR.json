@@ -363,6 +363,7 @@
   "AUTO_BACKUP_FILE_WARNING": "Os arquivos de backup automático estão no diretório temporário apenas para recuperação de emergência.\n\n",
   "Docker log": "Log do Docker",
   "Podman log": "Log do Podman",
+  "Container log": "Log do Container",
   "start": "iniciar",
   "starting...": "iniciando...",
   "restart": "reiniciar",

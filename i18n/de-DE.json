@@ -363,6 +363,7 @@
   "AUTO_BACKUP_FILE_WARNING": "Automatische Sicherungsdateien befinden sich nur zur Notfallwiederherstellung im temporären Verzeichnis.\n\n",
   "Docker log": "Docker-Protokoll",
   "Podman log": "Podman-Protokoll",
+  "Container log": "Container-Protokoll",
   "start": "starten",
   "starting...": "wird gestartet...",
   "restart": "neu starten",

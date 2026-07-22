@@ -363,6 +363,7 @@
   "AUTO_BACKUP_FILE_WARNING": "Otomatik yedekleme dosyaları yalnızca acil kurtarma için geçici dizindedir.\n\n",
   "Docker log": "Docker günlüğü",
   "Podman log": "Podman günlüğü",
+  "Container log": "Konteyner günlüğü",
   "start": "başlat",
   "starting...": "başlatılıyor...",
   "restart": "yeniden başlat",
