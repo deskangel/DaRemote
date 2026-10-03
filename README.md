@@ -49,6 +49,11 @@ Support using Biometric authentication to enter sudo password
 Privacy Statement:
 The app does not collect or upload any user data or information, including your server's information. Sensitive server information is encrypted and stored locally.
 
+## Q&A
+[English](https://blog.deskangel.com/2022/05/21/daremote-qa-en/)
+
+[Chinese](https://blog.deskangel.com/2021/08/05/daremote-qa/)
+
 ## Download
 
 Home: [DaRemote](https://daremote.deskangle.com)
