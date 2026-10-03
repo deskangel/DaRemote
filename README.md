@@ -7,7 +7,7 @@ It supports the monitoring and management of the following systems:
 * FreeBSD
 * macOS
 * Windows
-* Docker
+* Docker/Podman/Apple container
 
 ---
 ✔Monitoring Functions：
@@ -20,7 +20,9 @@ It supports the monitoring and management of the following systems:
 
 ✔Script and command snippet management:
 * Script organization, editing, running, result display, etc.
-* Create local tunnel
+* Run on Multiple Servers Simultaneously.
+* Wake-on-Lan command.
+* SSH Tunnel command.
 
 ✔Proxy supported:
 SSH Tunnel
@@ -39,6 +41,9 @@ Support using Biometric authentication to enter sudo password
 * Traditional Chinese
 * Traditional Chinese (Taiwan)
 * Português (Brasil)
+* Italiano
+* Türkçe
+* Deutsch
 
 #### Support themes:
 * dark
