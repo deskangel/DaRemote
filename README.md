@@ -61,6 +61,6 @@ The app does not collect or upload any user data or information, including your 
 
 ## Download
 
-Home: [DaRemote](https://daremote.deskangle.com)
+Home: [DaRemote](https://daremote.deskangel.com)
 
 Google play store: [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote)
